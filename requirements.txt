@@ -1,0 +1,2 @@
+# O MVP usa apenas a biblioteca padrão do Python 3.11+.
+# Não há dependências externas para instalar.
